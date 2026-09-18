@@ -2,7 +2,7 @@
 
 # 
 
-# \[Fotografía](images/problemasJuguete.jpg)
+#! \[Fotografía](images/problemasJuguete.jpg)
 
 
 
@@ -28,3 +28,7 @@
 
 !\[Evaluación](images/EvalAasterisco.jpg)
 
+
+## Dino EDA1
+
+![Dino EDA 1](images/dinoEda1.jpg)
