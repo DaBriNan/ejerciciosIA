@@ -32,3 +32,9 @@
 ## Dino EDA1
 
 ![Dino EDA 1](images/dinoEda1.jpg)
+
+
+
+## Dino EDA2
+
+![Dino EDA 1](images/dinoEda1.jpg)
