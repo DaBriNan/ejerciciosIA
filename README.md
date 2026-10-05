@@ -164,3 +164,9 @@ int main(void) {
     return 0;
 }
 ```
+
+
+
+## Analisis Juego bola rebota
+
+![juegoBolaRebota](images/bolaRebotaJurgo.jpg)
