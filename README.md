@@ -170,3 +170,7 @@ int main(void) {
 ## Analisis Juego bola rebota
 
 ![juegoBolaRebota](images/bolaRebotaJurgo.jpg)
+
+## FIltro convolucional
+
+![filtro](images/filtroDeConvolusion.jpg)
